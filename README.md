@@ -15,13 +15,15 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 ## Membuat Halaman dengan Server-Side Rendering (SSR) 
 1.	Buka file pages/index.tsx di text editor Anda. 
 2.	Ganti kode di dalamnya dengan kode berikut untuk membuat halaman sederhana: 
-  
+    ![alt text](image-6.png)
 3.	Simpan file dan lihat perubahan di browser. Anda akan melihat halaman utama dengan teks "Selamat Datang di Website Saya!". 
+    ![alt text](image-5.png)
 
 ## Menggunakan Static Site Generation (SSG) 
 1.	Buat file baru di direktori pages dengan nama blog.js. 
+
 2.	Tambahkan kode berikut untuk membuat halaman blog dengan SSG: 
-  
+
 3.	Simpan file dan buka http://localhost:3000/blog di browser. Anda akan melihat daftar post yang diambil dari API eksternal. 
 
 ## Menggunakan Dynamic Routes 
