@@ -23,8 +23,9 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 1.	Buat file baru di direktori pages dengan nama blog.js. 
 
 2.	Tambahkan kode berikut untuk membuat halaman blog dengan SSG: 
-
+    ![alt text](image-7.png)
 3.	Simpan file dan buka http://localhost:3000/blog di browser. Anda akan melihat daftar post yang diambil dari API eksternal. 
+    ![alt text](image-8.png)
 
 ## Menggunakan Dynamic Routes 
 1.	Buat direktori baru di pages dengan nama blog. 
