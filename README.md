@@ -39,10 +39,11 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 1.	Pastikan terdapat direktori di pages dengan nama api. 
 2.	Buat file di dalam direktori api dengan nama products.js. 
 3.	Tambahkan kode berikut untuk membuat API route yang mengembalikan daftar produk: 
-  
+    ![alt text](image-12.png)
 4.	Buat file baru di pages dengan nama products.js untuk menampilkan daftar produk: 
-  
+    ![alt text](image-11.png)
 5.	Simpan file dan buka http://localhost:3000/products di browser. Anda akan melihat daftar produk yang diambil dari API route. 
+    ![alt text](image-13.png)
 
 ## Menggunakan Link Component 
 1.	Buka file pages/index.tsx dan tambahkan modif dengan kode berikut untuk membuat link ke halaman lain: 
