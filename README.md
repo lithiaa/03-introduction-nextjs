@@ -47,10 +47,12 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 
 ## Menggunakan Link Component 
 1.	Buka file pages/index.tsx dan tambahkan modif dengan kode berikut untuk membuat link ke halaman lain: 
-  
+    ![alt text](image-15.png)
 2.	Buat file baru di pages dengan nama about.js untuk halaman "Tentang Kami": 
-  
+    ![alt text](image-14.png)
 3.	Simpan file dan buka http://localhost:3000 di browser. Klik link "Tentang Kami" untuk navigasi ke halaman tentang. 
+    ![alt text](image-16.png)
+    ![alt text](image-17.png)
 
 
 ## Tugas 
